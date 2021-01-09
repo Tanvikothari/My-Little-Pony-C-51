@@ -1,0 +1,41 @@
+h1{
+    background-color: rgb(26, 128, 0) ;
+    border-radius: 10px;
+    color: violet;
+}
+
+p{
+    color: violet;
+}
+
+h2{
+color : Pink ;
+background-color: orange
+
+}
+
+*{
+    background-color: blanchedalmond;
+}
+
+*{
+    border:3px;
+}
+
+.image{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.about{
+    display:flex;
+    justify-content: space-around;
+    color:violet;
+}
